@@ -13,14 +13,14 @@
 Este projeto se trata da resolução de 4 exercícios abordando o tema de Dividir & Conquistar (D&C). Os exercícios foram retirados do site [LeetCode](https://leetcode.com/tag/dynamic-programming/).
 
 ### Exercício 1
-**Nome:** <br>
-**Código:** [ACESSO](exercicios/)<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Nome:** Redução de Pratos<br>
+**Código:** [ACESSO](exercicios/reducaoDePratos/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/reducing-dishes/)<br>
 
 ### Exercício 2
-**Nome:** <br>
-**Código:** [ACESSO](exercicios/)<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Nome:** Pontuação Máxima Palavras Formadas por Letras<br>
+**Código:** [ACESSO](exercicios/pontuacaoMax/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)<br>
 
 ### Exercício 3
 **Nome:** <br>
