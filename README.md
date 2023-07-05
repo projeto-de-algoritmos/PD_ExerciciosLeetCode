@@ -24,13 +24,13 @@ Este projeto se trata da resolução de 4 exercícios abordando o tema de Dividi
 
 ### Exercício 3
 **Nome:** <br>
-**Código:** [ACESSO](exercicios/)<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Código:** [ACESSO](exercicios/SubsequenciaCrescenteMaisLonga/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/longest-increasing-subsequence/description/)<br>
 
 ### Exercício 4
 **Nome:** <br>
-**Código:** [ACESSO](exercicios/)<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Código:** [ACESSO](exercicios/VoosMaisBarato/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)<br>
 
 
 ## Screenshots
