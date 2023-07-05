@@ -23,12 +23,12 @@ Este projeto se trata da resolução de 4 exercícios abordando o tema de Dividi
 **Página LeetCode:** [ACESSO](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)<br>
 
 ### Exercício 3
-**Nome:** <br>
+**Nome:** Subsequência Crescente Mais Longa<br>
 **Código:** [ACESSO](exercicios/SubsequenciaCrescenteMaisLonga/)<br>
 **Página LeetCode:** [ACESSO](https://leetcode.com/problems/longest-increasing-subsequence/description/)<br>
 
 ### Exercício 4
-**Nome:** <br>
+**Nome:** Voos mais Baratos Dentro de K Paradas<br>
 **Código:** [ACESSO](exercicios/VoosMaisBarato/)<br>
 **Página LeetCode:** [ACESSO](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)<br>
 
