@@ -10,7 +10,7 @@
 | 20/2023681  | Gabriel da Silva Rosa |
 
 ## Sobre 
-Este projeto se trata da resolução de 4 exercícios abordando o tema de Dividir & Conquistar (D&C). Os exercícios foram retirados do site [LeetCode](https://leetcode.com/tag/dynamic-programming/).
+Este projeto se trata da resolução de 4 exercícios abordando o tema de Programação Dinâmica (PD). Os exercícios foram retirados do site [LeetCode](https://leetcode.com/tag/dynamic-programming/).
 
 ### Exercício 1
 **Nome:** Redução de Pratos<br>
@@ -73,4 +73,4 @@ Repita o processo para cada um dos 4 exercícios resolvidos.
 
 **Vídeo da Apresentação (GitHub):** [ACESSO](videoApresentacao.mp4)
 
-**Vídeo da Apresentação (Youtube):** [ACESSO]()
+**Vídeo da Apresentação (Youtube):** [ACESSO](https://youtu.be/_B3-K2YDXXI)
